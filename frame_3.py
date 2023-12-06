@@ -1,5 +1,4 @@
 # 動画からフレーム抽出をする
-
 import cv2
 import os
 import glob
