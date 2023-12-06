@@ -6,7 +6,7 @@ import os
 import glob
 
 # 動画が保存されているディレクトリ
-directory = './data_boar/'
+directory = 'data'
 
 # ディレクトリ内の全てのmp4ファイルを取得
 movies = glob.glob(directory + '/*.mp4')
