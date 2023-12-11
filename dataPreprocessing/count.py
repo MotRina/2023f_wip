@@ -21,5 +21,5 @@ def count_images(directory):
 
     return total_images
 
-directory_path = '/Users/rinamotoyama/Downloads/github/2023f_wip/元データ/female'
+directory_path = '/Users/rinamotoyama/Downloads/github/2023f_wip/60frame_data/female'
 print(f"Total images: {count_images(directory_path)}")
